@@ -1,10 +1,18 @@
-Hà Ngọc Minh - BIT230495
+## Hà Ngọc Minh - BIT230495
 
-BÀI THỰC HÀNH SỐ 1: 
+## BÀI THỰC HÀNH SỐ 1: Can't see
+## Hoạt động
+Trải nghiệm trò chơi trực tuyến Can't Unsee để rèn luyện khả năng quan sát, phân tích chi tiết thiết kế giao diện phần mềm (UI) và trải nghiệm người dùng (UX). Qua đó, nhận biết các lỗi thiết kế phổ biến về khoảng cách (spacing), font chữ, căn chỉnh (alignment) và màu sắc.
+
+## Mục tiêu
+- Nâng cao tư duy về chất lượng phần mềm từ góc độ giao diện.
+- Biết cách phân biệt các yếu tố thiết kế chuẩn (Best practices) và lỗi thiết kế.
+
+## Kết quả đạt được
 <img width="1892" height="972" alt="image" src="https://github.com/user-attachments/assets/2cbfde29-771f-4be0-8d25-4bcd15961743" />
 
 
-BÀI THỰC HÀNH SỐ 2: Student Analyzer – Unit Test with JUnit
+## BÀI THỰC HÀNH SỐ 2: Student Analyzer – Unit Test with JUnit
 ## Mô tả
 Chương trình phân tích điểm số học sinh, bao gồm:
 - Đếm số học sinh đạt loại Giỏi (>= 8.0)
@@ -16,11 +24,11 @@ Chương trình phân tích điểm số học sinh, bao gồm:
 - JUnit 5
 
 ## Cấu trúc thư mục
-unit-test/
-├── src/
-│ └── StudentAnalyzer.java
-└── test/
-└── StudentAnalyzerTest.java
+unit-test/   
+├── src/   
+│ └── StudentAnalyzer.java   
+└── test/   
+└── StudentAnalyzerTest.java   
 
 ## Các kịch bản kiểm thử (Test Cases)
 Chương trình bao phủ các trường hợp sau:
