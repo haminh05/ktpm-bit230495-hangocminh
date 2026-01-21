@@ -1,0 +1,9 @@
+node_modules/
+cypress/videos/
+cypress/screenshots/
+
+.vscode/
+.idea/
+
+*.log
+.DS_Store
