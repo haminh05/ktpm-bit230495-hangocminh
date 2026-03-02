@@ -1,4 +1,4 @@
-<img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/848e81d2-4a82-44e7-850f-aa719d24fd9e" />## Hà Ngọc Minh - BIT230495
+## Hà Ngọc Minh - BIT230495
 
 ## BÀI THỰC HÀNH SỐ 1: Can't see
 Hoạt động
