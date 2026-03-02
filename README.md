@@ -166,7 +166,7 @@ Thông qua bài thực hành, sinh viên đã:
   - Error Rate                          
 • Phân tích khả năng chịu tải của hệ thống                              
 
-2.Cấu hình kiểm thử: HTTP Request Defaults              
+2. Cấu hình kiểm thử: HTTP Request Defaults              
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/953630f1-8905-4e0a-adf9-5a6b60be33b5" />
 
 3. Các kịch bản kiểm thử                                      
@@ -176,7 +176,7 @@ Thông qua bài thực hành, sinh viên đã:
 <img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/cce2a27c-7cf5-44ff-b362-2a92f6b207f2" />
 
 3.2. Thread Group 2 – Heavy Load                                                                                  
-• Mục tiêu: Mô phỏng nhiều người dùng truy cập đồng thời vào trang chủ và trang đăng nhập                                                                                                    
+• Mục tiêu: Mô phỏng nhiều người dùng truy cập đồng thời vào trang chủ và trang đăng nhập                                                                                                          
 • Hành vi: GET /    , GET /login                                                                                                
 <img width="1919" height="1018" alt="image" src="https://github.com/user-attachments/assets/b5c6fc7d-4bbc-4780-b026-0e7bfadfc5c9" />
 
@@ -189,13 +189,13 @@ Thông qua bài thực hành, sinh viên đã:
 <img width="1919" height="1019" alt="image" src="https://github.com/user-attachments/assets/f5f71c8d-b941-4883-bdf2-f808845a2748" />
 
 5. Phân tích kết quả                                        
-• Response Time                                                                
+Response Time                                                                
   - Khi số lượng người dùng tăng (Thread Group 2), thời gian phản hồi tăng.                                                                              
   - Điều này cho thấy hệ thống bị ảnh hưởng bởi tải cao.                                                  
-• Throughput                                          
+Throughput                                          
   - Throughput tăng khi số lượng thread tăng.                                          
   - Hệ thống xử lý được nhiều request/giây hơn khi có nhiều người dùng.                                  
-• Error Rate                                          
+Error Rate                                          
   - Error % = 0%                                    
   - Không phát sinh lỗi 404 hoặc 500.                          
   - Hệ thống hoạt động ổn định trong phạm vi kiểm thử.                                
@@ -205,12 +205,12 @@ Thông qua bài thực hành, sinh viên đã:
 • Khi tải tăng cao, thời gian phản hồi tăng nhưng vẫn trong mức chấp nhận được.                            
 • Không ghi nhận lỗi hệ thống.                                      
 
-7. Kết luận
-Qua bài thực hành, sinh viên đã:
-• Hiểu cách xây dựng kịch bản kiểm thử tải bằng JMeter
-• Biết cấu hình Thread Group và HTTP Request
-• Biết thu thập và phân tích các chỉ số hiệu năng
-• Đánh giá được khả năng chịu tải của hệ thống
+7. Kết luận                          
+Qua bài thực hành, sinh viên đã:                          
+• Hiểu cách xây dựng kịch bản kiểm thử tải bằng JMeter                                      
+• Biết cấu hình Thread Group và HTTP Request                                      
+• Biết thu thập và phân tích các chỉ số hiệu năng                                
+• Đánh giá được khả năng chịu tải của hệ thống                                                  
 
 
 
